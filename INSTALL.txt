@@ -1,0 +1,3 @@
+How to install?
+
+Zip all files and upload zip as new plugin in wordpress.
