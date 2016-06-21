@@ -1,6 +1,0 @@
-[33mf026124[m[33m ([1;36mHEAD[m[33m, [1;31morigin/master[m[33m, [1;32mmaster[m[33m)[m Changed predefined values
-[33m31b1416[m Changed icon
-[33me0ed2cd[m Added responses, fixed return URL's, GetOrder from Payment ID
-[33m8b3147d[m Major changes
-[33ma6a3bff[m Generate redirection URL
-[33m0a478e5[m Initial commit
